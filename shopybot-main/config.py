@@ -1,3 +1,3 @@
-TOKEN = ' '
+TOKEN = 'token-bot'
 ENGINE = ''
 ECHO = ''
